@@ -21,6 +21,9 @@ Services - JSON manager
 
 Application - Application data manager aggregates and manages all classes
 
+github:
+https://github.com/Erik993/MD1.git
+
 */
 
 
